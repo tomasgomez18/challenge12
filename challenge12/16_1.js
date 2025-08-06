@@ -5,7 +5,7 @@ let cantidad = clave.length;
 
 
 if (clave.length >= 8) {
-  alert(`¡Clave aceptada!, tiene ${cantidad}  caracteres`);
+  alert(`¡Clave aceptada!, tiene ${cantidad} caracteres`);
 } else {
-  alert(`La clave es demasiado corta, tiene ${cantidad}  caracteres`);
+  alert(`La clave es demasiado corta, tiene ${cantidad} caracteres`);
 }
